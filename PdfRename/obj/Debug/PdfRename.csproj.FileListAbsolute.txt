@@ -1,0 +1,10 @@
+C:\Users\maxi\source\repos\PdfRename\PdfRename\bin\Debug\PdfRename.exe.config
+C:\Users\maxi\source\repos\PdfRename\PdfRename\bin\Debug\PdfRename.exe
+C:\Users\maxi\source\repos\PdfRename\PdfRename\bin\Debug\PdfRename.pdb
+C:\Users\maxi\source\repos\PdfRename\PdfRename\bin\Debug\itextsharp.dll
+C:\Users\maxi\source\repos\PdfRename\PdfRename\bin\Debug\itextsharp.xml
+C:\Users\maxi\source\repos\PdfRename\PdfRename\obj\Debug\PdfRename.csprojResolveAssemblyReference.cache
+C:\Users\maxi\source\repos\PdfRename\PdfRename\obj\Debug\PdfRename.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\PdfRename\PdfRename\obj\Debug\PdfRename.csproj.CopyComplete
+C:\Users\maxi\source\repos\PdfRename\PdfRename\obj\Debug\PdfRename.exe
+C:\Users\maxi\source\repos\PdfRename\PdfRename\obj\Debug\PdfRename.pdb
